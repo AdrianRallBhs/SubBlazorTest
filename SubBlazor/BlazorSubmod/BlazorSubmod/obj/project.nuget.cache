@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kfsKWYxeQK4UJb9b5ahEODeHEyS3uX0u889t0n0X1PwFp6IHlFak1LSAEmApcWZAPm9STafCBEo5ieW+LJ3WVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adrian\\Desktop\\OTH\\Bachelorarbeit\\Dependency0512\\SubBlazorTest\\SubBlazor\\BlazorSubmod\\BlazorSubmod\\BlazorSubmod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.1.1\\microsoft.aspnetcore.html.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.1.1\\microsoft.aspnetcore.razor.2.1.1.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
